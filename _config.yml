@@ -4,13 +4,13 @@
 
 # Site
 title: Hexo
-subtitle: ''
+subtitle: 暮寒溪
 description: ''
 keywords:
 author: John Doe
 language: en
 timezone: ''
-
+https://github.com/Melon-six/-/blob/main/hexo
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
@@ -52,7 +52,7 @@ highlight:
   hljs: false
 prismjs:
   preprocess: true
-  line_number: true
+  line_number: Melon-six
   tab_replace: ''
 
 # Home page setting
